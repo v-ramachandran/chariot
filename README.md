@@ -1,2 +1,2 @@
-# ros-experiments
-Experimenting with ROS for autonomous driving.
+# helios
+Working with a ROS-based autonomous model car.
